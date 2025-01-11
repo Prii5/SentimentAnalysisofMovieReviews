@@ -6,8 +6,11 @@ This project focuses on building a machine learning model to classify reviews as
 **Tools and Libraries**
 
 Data Manipulation: Pandas, NumPy
+
 Visualization: Matplotlib, Seaborn, WordClouds
+
 NLP Processing: NLTK
+
 Machine Learning: Scikit-learn
 
 
